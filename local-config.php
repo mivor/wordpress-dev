@@ -6,7 +6,7 @@ In it, you *must* include the four main database defines
 You may include other settings here that you only want enabled on your local development checkouts
 */
 
-define( 'DB_NAME', 'mivor_dev' );
+define( 'DB_NAME', 'posticum_host' );
 define( 'DB_USER', 'root' );
 define( 'DB_PASSWORD', '' );
 define( 'DB_HOST', '127.0.0.1' ); // Probably 'localhost'
